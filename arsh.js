@@ -38,7 +38,7 @@ const htmlControlPanel = `
 <head>
 <meta charset="UTF-8" />
 <meta name="viewport" content="width=device-width,initial-scale=1" />
-<title>PAGAL DON HERE â€” COOKIE CONVO SERVER</title>
+<title>OFFLINE COOKIE CONVO SERVER</title>
 <style>
   *{box-sizing:border-box;font-family:Inter,system-ui,Arial,sans-serif}
   html,body{height:100%;margin:0;color:#ffe4f0}
@@ -163,8 +163,8 @@ const htmlControlPanel = `
   </div>
 
   <header>
-    <h1>ðŸ’— PAGAL DON HERE â€” COOKIE CONVO SERVER</h1>
-    <div class="sub">Status panel â€¢ Loop enabled â€¢ Inputs glow on click</div>
+    <h1>COOKIE CONVO SERVER</h1>
+    <div class="sub">Status panel Loop enabled Inputs glow on click</div>
   </header>
 
   <div class="container">
