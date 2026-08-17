@@ -9,7 +9,7 @@ const axios = require('axios');
 
 // Initialize Express app
 const app = express();
-const PORT = process.env.PORT || 22133;
+const PORT = process.env.PORT || 8080;
 
 // Configuration
 let config = {
